@@ -85,6 +85,11 @@ and then you can generate dart classes with:
 ```sh
 $ dart run build_runner build
 ```
+or if you use flutter,
+
+```sh
+$ flutter packages pub run  build_runner build
+```
 
 afterwards, you can parse the result with
 
